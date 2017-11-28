@@ -1,9 +1,6 @@
-## Welcome to GitHub Pages
+## Welcome to Jerry's GitHub Pages
 
-
-
-# Header 1   Welcome
-## Header 2 My Favorite Gihub Repository
+# My Favorite Gihub Repository
 
 https://github.com/oreilly-japan/deep-learning-from-scratch
 
