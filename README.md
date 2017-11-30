@@ -13,6 +13,25 @@ http://henrikingo.github.io/
 http://henrikingo.github.io/impress.js/examples/classic-slides/#/overview
 
 
+https://github.com/impress/impress.js/wiki/Examples-and-demos
+
+impressPlayer: Standalone impress.js player with console (similar to libreoffice impress's one). You can load .html files, .md files (markpress version) or .zip files (single archive presentation with style.css, impress.md, images and videos).
+
+Presentations
+
+Demos and real world presentations by henrikingo (@h_ingo on Twitter):
+
+Classic slides demo, HTML & CSS with comments: a getting started demo/tutorial for beginners.
+With Markdown.js integration to author slides quickly in Markdown demo, HTML & CSS with comments
+Several real world presentations I've done
+Git from the inside an introduction into git with lots of SVG images and Grunt build script.
+
+Slide Deck by Tony Spiro - basic example that shows how you can control everything in your slide deck from the Cosmic JS content management platform.
+
+
+
+
+
 https://github.com/scanny/python-pptx
 
 python-pptx is a Python library for creating and updating PowerPoint (.pptx) files.
