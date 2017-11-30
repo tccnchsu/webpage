@@ -34,6 +34,11 @@ Slide Deck by Tony Spiro - basic example that shows how you can control everythi
 基本上就是個網頁, 所以像影像啦, GIF 動畫等等啦, 都是「本來就會」的。
 用 Markdown 做很快速, 可以專注在內容上。
 
+reveal.js
+https://revealjs.com/#/
+
+
+
 http://yenlung-blog.logdown.com/posts/313543-markdown-to-slides
 
 
