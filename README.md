@@ -28,7 +28,13 @@ Git from the inside an introduction into git with lots of SVG images and Grunt b
 
 Slide Deck by Tony Spiro - basic example that shows how you can control everything in your slide deck from the Cosmic JS content management platform.
 
+上次我們介紹怎麼用 Markdown 完成一本書, 這次我們來看 Markdown 可不可以做簡報。用 Markdown 做簡報, 其實就是輸出成 HTML, 用網頁做簡報。為什麼我們要選這個方案, 不用 PowerPoint, Keynote, LaTeX (Beamer) 等等方式呢? 對我來說, 有幾個很棒的因素:
 
+通常比其他方案簡潔、快速
+基本上就是個網頁, 所以像影像啦, GIF 動畫等等啦, 都是「本來就會」的。
+用 Markdown 做很快速, 可以專注在內容上。
+
+http://yenlung-blog.logdown.com/posts/313543-markdown-to-slides
 
 
 https://github.com/gitpitch/gitpitch  
