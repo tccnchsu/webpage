@@ -4,6 +4,11 @@
 
 https://github.com/oreilly-japan/deep-learning-from-scratch
 
+
+Creating awesome presentations with Impress js
+https://youtu.be/pdllxHmIPUc
+
+
 https://github.com/scanny/python-pptx
 
 python-pptx is a Python library for creating and updating PowerPoint (.pptx) files.
