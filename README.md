@@ -31,6 +31,15 @@ Slide Deck by Tony Spiro - basic example that shows how you can control everythi
 
 
 
+https://github.com/gitpitch/gitpitch  
+
+Markdown Presentations For Everyone on GitHub, GitLab, Bitbucket, GitBucket, Gitea, and Gogs. https://gitpitch.com
+
+What is GitPitch?
+
+GitPitch is a service that turns PITCHME.md markdown into online and offline, interactive slideshows. You can use it to promote, pitch or present absolutely anything.
+
+Each slideshow presentation is made instantly available online just as soon as you git-commit and push PITCHME.md on any branch within a public GitHub, GitLab, Bitbucket, GitBucket, Gitea, or Gogs repo.
 
 https://github.com/scanny/python-pptx
 
@@ -44,9 +53,7 @@ https://python-pptx.readthedocs.org/en/latest/
 Browse examples with screenshots to get a quick idea what you can do with python-pptx. 
 https://python-pptx.readthedocs.org/en/latest/user/quickstart.html
 
-https://github.com/gitpitch/gitpitch
 
-Markdown Presentations For Everyone on GitHub, GitLab, Bitbucket, GitBucket, Gitea, and Gogs. https://gitpitch.com
 
 You can use the [editor on GitHub](https://github.com/tccnchsu/webpage/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
