@@ -8,6 +8,10 @@ https://github.com/oreilly-japan/deep-learning-from-scratch
 Creating awesome presentations with Impress js
 https://youtu.be/pdllxHmIPUc
 
+http://henrikingo.github.io/
+
+http://henrikingo.github.io/impress.js/examples/classic-slides/#/overview
+
 
 https://github.com/scanny/python-pptx
 
