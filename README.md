@@ -2,6 +2,9 @@
 
 ## My Favorite Gihub Repository
 
+What a Deep Neural Network thinks about your #selfie
+http://karpathy.github.io/2015/10/25/selfie/
+
 https://github.com/oreilly-japan/deep-learning-from-scratch
 
 
