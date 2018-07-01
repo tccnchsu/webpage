@@ -1,5 +1,20 @@
 # Welcome to Jerry's GitHub Pages    https://tccnchsu.github.io/webpage/
 
+今天，我就来示范如何在github上搭建Blog，你可以从中掌握github的Pages功能，以及Jekyll软件的基本用法。更重要的是，你会体会到一种建立网站的全新思路。
+http://www.ruanyifeng.com/blog/2012/08/blogging_with_jekyll.html
+
+
+
+不用懂git也能用GitHub Pages架設靜態網站並綁定網域
+https://medium.com/@NorthBei/%E4%B8%8D%E7%94%A8%E6%87%82git%E4%B9%9F%E8%83%BD%E7%94%A8github-pages%E6%9E%B6%E8%A8%AD%E9%9D%9C%E6%85%8B%E7%B6%B2%E7%AB%99%E4%B8%A6%E7%B6%81%E5%AE%9A%E7%B6%B2%E5%9F%9F-c60c02bc470c
+
+使用 GitHub 免費製作個人網站
+https://gitbook.tw/chapters/github/using-github-pages.html
+
+Websites for you and your projects.
+https://pages.github.com/
+
+
 ## My Favorite Gihub Repository
 
 What a Deep Neural Network thinks about your #selfie
